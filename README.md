@@ -15,10 +15,10 @@
    ```bash
    git clone https://github.com/Magic1gun/firstProject.git
 # First Project Directory Structure
-firstProject/
-├── css/
-│   └── style.css
-├── img/
-│   └── sample.jpg
-├── index.html
+firstProject/  
+├── css/  
+│   └── style.css  
+├── img/  
+│   └── sample.jpg  
+├── index.html  
 └── README.md
