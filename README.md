@@ -14,13 +14,11 @@
 1. 克隆项目到本地：
    ```bash
    git clone https://github.com/Magic1gun/firstProject.git
-## 目录结构
+# First Project Directory Structure
 firstProject/
-│
 ├── css/
 │   └── style.css
-│
 ├── img/
 │   └── sample.jpg
-│
-└── index.html
+├── index.html
+└── README.md
